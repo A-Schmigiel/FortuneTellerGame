@@ -142,8 +142,7 @@ def fortune_picker(second_number, second_number_set, fortunes_listed):
     else:
         second_number_set = [3, 4, 7, 8]
 
-    second_number = second_number_set[second_num_i]
-    fortune = fortunes_listed[second_number_set[second_num_i]]
+    fortune = fortunes_listed[second_number_set[second_num_i] - 1]
 
     print("I carefully unfold the triangular flap of paper and read the fortune within: ")
     print(fortune)
