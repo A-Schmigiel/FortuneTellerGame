@@ -1,0 +1,2 @@
+This small program is designed to emulate the popular girl's game from the 90's. It's commonly referred to as a Fortune Teller, 'Cootie Catcher', or by various other names in different regions. Surprisingly, it's a common memory throughout different countries, including the EU and North America. More information can be found here: 
+<https://en.wikipedia.org/wiki/Paper_fortune_teller#:~:text=Once%20the%20number%20or%20color,or%20the%20sum%20of%20both.>
